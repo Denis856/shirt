@@ -777,6 +777,7 @@ ul {
   overflow: hidden;
   background: linear-gradient(89.72deg, #623309 14.27%, #97948F 122.6%);
   padding: 0 20px;
+  width: 96%;
 }
 .page2 .page2_items {
   display: -webkit-box;
